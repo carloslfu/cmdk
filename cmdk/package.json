@@ -1,6 +1,6 @@
 {
-  "name": "cmdk",
-  "version": "0.2.0",
+  "name": "carloslfu-cmdk-internal",
+  "version": "0.3.1",
   "license": "MIT",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
